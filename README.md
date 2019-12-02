@@ -1,4 +1,4 @@
-# Deploying EC2 using terraform
+# Deploying EC2 using Terraform
 
  Terraform is an open-source infrastructure as code software tool used to define and provision a datacenter infrastructure using a high-level configuration language.
 
