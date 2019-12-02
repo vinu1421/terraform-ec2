@@ -3,11 +3,10 @@
  Terraform is an open-source infrastructure as code software tool used to define and provision a datacenter infrastructure using a high-level configuration language.
 
  You can install terraform by downloading it and copying to /bin directory.
- Markup : 1. wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip
-          2. unzip  terraform_0.12.16_linux_amd64.zip
-          3. cp -pr terraform /bin
-          4. terraform --version
-
+ 1. wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip
+ 2. unzip  terraform_0.12.16_linux_amd64.zip
+ 3. cp -pr terraform /bin
+ 4. terraform --version
  The configuration should ends with an extension .tr
 
 
